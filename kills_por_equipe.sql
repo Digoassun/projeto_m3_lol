@@ -1,8 +1,8 @@
 #CBLOL: qual a equipe com maior numero de Kills?
 SELECT 
-    count(id_kill) as numero_de_kills_CBLol,
-    sum(kills.assassino LIKE CONCAT(matchinfo.time_azul, '%')) as time_azul,
-    sum(kills.assassino LIKE CONCAT(matchinfo.time_vermelho, '%')) as time_vermelho
+    matchinfo.liga,
+    SUBSTRING(kills.assassino FROM 1 FOR 4) AS equipe,
+    COUNT(*) AS numero_de_kills
 FROM
     kills
         JOIN
@@ -10,3 +10,6 @@ FROM
         OR kills.assassino LIKE CONCAT(matchinfo.time_vermelho, '%')
 WHERE
     matchinfo.liga = 'CBLol'
+GROUP BY CONCAT(SUBSTRING(kills.assassino FROM 1 FOR 4),
+        '%')
+ORDER BY numero_de_kills DESC;
