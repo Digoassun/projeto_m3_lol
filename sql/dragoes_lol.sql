@@ -1,21 +1,4 @@
-#GERAL: quais os dragões mais abatidos?
-SELECT count(tipo_dragao) as quantidade, tipo_dragao
-FROM monsters
-where tipo_dragao = 'EARTH_DRAGON';
-
-SELECT count(tipo_dragao) as quantidade, tipo_dragao
-FROM monsters
-where tipo_dragao = 'AIR_DRAGON';
-
-SELECT count(tipo_dragao) as quantidade, tipo_dragao
-FROM monsters
-where tipo_dragao = 'WATER_DRAGON';
-
-
-SELECT count(tipo_dragao) as quantidade, tipo_dragao
-FROM monsters
-where tipo_dragao = 'FIRE_DRAGON';
-
-SELECT count(tipo_dragao) as quantidade, tipo_dragao
-FROM monsters
-where tipo_dragao = 'ELDER_DRAGON';
+select tipo_dragao, count(tipo_dragao) as quantidade_abates from monsters 
+where  tipo_dragao in( 'FIRE_DRAGON','EARTH_DRAGON', 'AIR_DRAGON','WATER_DRAGON',  'ELDER_DRAGON')
+group by tipo_dragao
+order by quantidade_abates desc;
