@@ -1,14 +1,14 @@
-##Projeto final de módulo 3 - Resilia Educação
+<h2>Projeto final de módulo 3 - Resilia Educação</h2>
 
 ![2](https://user-images.githubusercontent.com/102622514/176544430-49075472-f06c-4aeb-81d6-6f6959813471.png)
 
 
-###💬Sobre o Projeto
+<h3>💬Sobre o Projeto</h3>
 
 Neste projeto nossa missão era de fazer uma análise de dados do jogo League of Legends, com o banco fornecido previamente.
 Esses dados são referentes ao cenário competitivo mundial entre os anos de 2014 e 2018.
 
-###🚀Tecnologias e Ferramentas utilizadas
+<h3>🚀Tecnologias e Ferramentas utilizadas</h3>
 
 <ul>
     <li>SQL</li>
@@ -18,7 +18,7 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
     <li>Trello</li>
 </ul>
 
-###📅Organização de projeto
+<h3>📅Organização de projeto</h3>
 <ul>
     <li>Modelar as tabelas do banco de dados do League of Legends.</li>
     <li>Subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.</li>
@@ -26,13 +26,13 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
     <li>Criar visualizações dos dados com base nas perguntas elaboradas na sprint.</li>
 </ul>
 
-###📅Organização de tarefas
+<h3>📅Organização de tarefas</h3>
 <ul><li>Utilizar o Trello com o método Kanban.</li>
 
 ![image](https://user-images.githubusercontent.com/102622514/176542815-0a742938-70ad-4051-8576-d21c6a454561.png)
 
 
-###📊Visualizações dos dados baseado nas perguntas elaboradas
+<h3>📊Visualizações dos dados baseado nas perguntas elaboradas</h3>
 <div align="center">
 
 ![11](https://user-images.githubusercontent.com/102622514/176545984-75f2a97e-df83-4705-bf07-698ed6d17782.png)
