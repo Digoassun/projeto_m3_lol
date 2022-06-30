@@ -1,7 +1,5 @@
 <h2>Projeto final de módulo 3 - Resilia Educação</h2>
 
-![2](https://user-images.githubusercontent.com/102622514/176544430-49075472-f06c-4aeb-81d6-6f6959813471.png)
-
 
 <h3>💬Sobre o Projeto</h3>
 
@@ -13,12 +11,14 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
 <ul>
     <li>SQL</li>
     <li>MySQL Workbench</li>
+    <li>Git</li>
     <li>Excel</li>
     <li>Canva</li>
     <li>Trello</li>
 </ul>
 
 <h3>📅Organização de projeto</h3>
+
 <ul>
     <li>Modelar as tabelas do banco de dados do League of Legends.</li>
     <li>Subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.</li>
@@ -27,17 +27,20 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
 </ul>
 
 <h3>📅Organização de tarefas</h3>
-<ul><li>Utilizar o Trello com o método Kanban.</li>
+<ul>
+    <li>Utilização do Trello com o método Kanban.</li>
+</ul>
 
 ![image](https://user-images.githubusercontent.com/102622514/176542815-0a742938-70ad-4051-8576-d21c6a454561.png)
 
 
 <h3>📊Visualizações dos dados baseado nas perguntas elaboradas</h3>
+
 <div align="center">
 
 ![11](https://user-images.githubusercontent.com/102622514/176545984-75f2a97e-df83-4705-bf07-698ed6d17782.png)
 
-![12](https://user-images.githubusercontent.com/102622514/176545994-cda37a33-7d94-4ab7-88e6-50b325c5b947.png)
+![League of legends (1)](https://user-images.githubusercontent.com/102622514/176584662-a241342d-7522-4b0e-af72-945f9bb7b948.png)
 
 ![17](https://user-images.githubusercontent.com/102622514/176546020-e93f52da-8a4b-42ab-a75a-76de915c9aab.png)
 
@@ -47,10 +50,19 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
 
 ![15](https://user-images.githubusercontent.com/102622514/176546047-dd845bea-c8e9-4ff6-91d5-92fc31ed2f8a.png)
 
-![16](https://user-images.githubusercontent.com/102622514/176546051-7e8ea0c9-085a-4282-93e4-c1cb98e44f36.png)
+![League of legends](https://user-images.githubusercontent.com/102622514/176584377-9cbee162-6b7b-482b-8325-7a42a892561f.png)
+
+
+
 </div>
 
+<h3>🌈Integrantes</h3>
+<div>
 
+![2](https://user-images.githubusercontent.com/102622514/176544430-49075472-f06c-4aeb-81d6-6f6959813471.png)
+
+[--Rodrigo Assunção--](https://www.linkedin.com/in/rodrigo-assun/) [--Nayara Oliveira--](https://www.linkedin.com/in/nayara-marques-65884bb2/) [--Josiane Rocha--](https://www.linkedin.com/in/josiane-r-s-lima-santos-10202971/) [--Enrico Martins--](https://www.linkedin.com/in/enricomartins018/) [--Erik Souza--](https://www.linkedin.com/in/erik-souza-69b603237/)
+</div>
 
 
 
