@@ -44,7 +44,7 @@ Esses dados são referentes ao cenário competitivo mundial entre os anos de 201
 
 ![17](https://user-images.githubusercontent.com/102622514/176546020-e93f52da-8a4b-42ab-a75a-76de915c9aab.png)
 
-![18](https://user-images.githubusercontent.com/102622514/176546032-47870eaf-b7b0-452d-826d-9ebb72fa7a61.png)
+![grafico](https://user-images.githubusercontent.com/102702258/176973295-2950c03d-7a7b-43b9-97d3-49337fd5a49d.png)
 
 ![13](https://user-images.githubusercontent.com/102622514/176546038-de7976fd-add1-4c9d-a2f8-71430b484150.png)
 
