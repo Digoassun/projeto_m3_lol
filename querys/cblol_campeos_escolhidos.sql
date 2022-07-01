@@ -1,4 +1,4 @@
-#Qual o campeão com mais vitorias em cada rota no CBLOL?
+#Quais os campeões mais escolhidas em cada rota no CBLOL?
 
 #top
 select champ_top, count(champ_top) as quantidade_escolhas
